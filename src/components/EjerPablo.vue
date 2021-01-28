@@ -1,5 +1,6 @@
-<template>
+<template>  
     <div class="grid-auto-columns: auto;">
+        <h1>Cambio</h1>
         <el-alert 
             v-show="msj_alerta"
             title="Se ha superado el máximo permitido"
